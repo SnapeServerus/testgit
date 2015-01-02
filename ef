@@ -1,0 +1,66 @@
+commit db1aed99507facc21810fccca8863d2889b9789b
+Merge: d8c7a72 284c5d5
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 16:37:21 2015 +0800
+
+    conflict fixed
+
+commit d8c7a724ea41c6096d9694830fc845e9f6cb2eb0
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 16:35:04 2015 +0800
+
+    master add readme.txt 999999999
+
+commit 284c5d57d681470934b38e5e57ace38057d497ba
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 16:32:42 2015 +0800
+
+    fenzhi1 add readme.txt 88888888
+
+commit a135878e00c3b6e21b16d87611ce683f5bbc7bf8
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 16:28:53 2015 +0800
+
+    dev add readme.txt 77777777
+
+commit 5590f002941543b79c8bcfc5231a7742054e949b
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 16:24:00 2015 +0800
+
+    delete a 7
+
+commit c91bf5ac3bd99689d0d40bb1ba6ae93b4cd0e2f2
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 15:56:58 2015 +0800
+
+    add b.txt
+
+commit 8618509fde9b734b3a80f1ba4e60da4494bc5df2
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 15:55:42 2015 +0800
+
+    add b.txt
+
+commit 9dacd7ff04ee0463089f241e249037ca00e46fc8
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 15:36:00 2015 +0800
+
+    readme.txt and test.txt commited
+
+commit b5863812146096275147e6019af322266145ce29
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 15:27:17 2015 +0800
+
+    readme.txt commited 33333333
+
+commit 8a442cb1cc4f506c44103381459b81d5c3576f95
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 15:25:39 2015 +0800
+
+    readme.txt commited 22222222
+
+commit bdd66b325b83e3b28efcedb647ba0f532f2000a3
+Author: snape1992 <snape1992@163.com>
+Date:   Fri Jan 2 15:19:45 2015 +0800
+
+    readme.txt commit first
